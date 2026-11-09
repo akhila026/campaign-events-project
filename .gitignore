@@ -1,0 +1,7 @@
+.cache/
+*.exe
+*.db
+*.db-wal
+*.db-shm
+actual.txt
+
